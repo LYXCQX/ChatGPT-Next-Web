@@ -229,7 +229,24 @@ const cn = {
     SubTitle: "现在开始，与面具背后的灵魂思维碰撞",
     More: "查看全部",
   },
-
+  LoginRegister: {
+    title: "登录",
+    reg: "注册",
+    tip: "请输入您的信息",
+    phoneTip: "手机号",
+    pwdTip: "以字母开头只能包含字母、数字和下划线",
+    pwdInputTip: "密码",
+    forgetPwd: "忘记密码？",
+    registerNow: "立即注册？",
+    loginNow: "立即登录",
+    register: "注册",
+    login: "登录",
+    login1: "或使用您的帐号",
+    hasAcc: "已有帐号？",
+    loginTip: "请使用您的帐号进行登录",
+    noAcc: "没有帐号？",
+    registerTips: "立即注册加入我们，和我们一起开始旅程吧"
+  },
   UI: {
     Confirm: "确认",
     Cancel: "取消",
